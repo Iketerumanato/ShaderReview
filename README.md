@@ -23,5 +23,7 @@
 
 2023/12/26 点滅するシェーダーを追加(発光はなし)
 
+[Tenmetu.shader](Assets/Shader/Tenmetu.shader)
+
 https://github.com/Iketerumanato/ShaderReview/assets/74332407/3d2f70f6-aa65-44ee-ab91-247e878b628e
 
